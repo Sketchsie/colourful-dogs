@@ -1,8 +1,10 @@
 import React from 'react';
 import { usePalette } from 'react-palette'
 import constants from './constants.js'
+const rand = Math.floor(Math.random() * constants.images.length);
+
 function getRandomImage() {
-  return constants.images[Math.floor(Math.random() * constants.images.length)];
+  return constants.images[rand];
 }
 
 function App() {
@@ -17,7 +19,7 @@ function App() {
           !loading ? 
           <div className="row">
             <div className="text-center image-box">
-              <img src={currImage} width='200'/>
+              <img src={currImage} width='150'/>
             </div>
             <div className="col-2 mcolumn" style={{ backgroundColor: data.vibrant}}>
               <p>vibrant color</p>
