@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/colourful-dogs/static/js/main.a1426370.chunk.js",
+    "main.js.map": "/colourful-dogs/static/js/main.a1426370.chunk.js.map",
+    "runtime~main.js": "/colourful-dogs/static/js/runtime~main.475884da.js",
+    "runtime~main.js.map": "/colourful-dogs/static/js/runtime~main.475884da.js.map",
+    "static/js/2.78098ed2.chunk.js": "/colourful-dogs/static/js/2.78098ed2.chunk.js",
+    "static/js/2.78098ed2.chunk.js.map": "/colourful-dogs/static/js/2.78098ed2.chunk.js.map",
+    "index.html": "/colourful-dogs/index.html",
+    "precache-manifest.6882d8dd25f5291340f0d3f69357703d.js": "/colourful-dogs/precache-manifest.6882d8dd25f5291340f0d3f69357703d.js",
+    "service-worker.js": "/colourful-dogs/service-worker.js"
+  }
+}
