@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/colourful-dogs/precache-manifest.2967778e1014dbc043840dc75a5900f5.js"
+  "/colourful-dogs/precache-manifest.bf1fb5383be721ba21d4fee22dcde704.js"
 );
 
 self.addEventListener('message', (event) => {
