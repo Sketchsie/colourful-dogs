@@ -2,8 +2,9 @@
   "name": "colourful-dogs",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://pbaveja.github.io/colourful-dogs",
+  "homepage": "http://pbaveja.github.io/colourful-dogs",
   "dependencies": {
+    "js-cookie": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-palette": "^1.0.1",
